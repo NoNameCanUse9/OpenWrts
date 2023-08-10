@@ -15,4 +15,4 @@ git clone https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git package/other
 
 # UnblockNeteaseMusic
 git clone -b master  https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/unblockneteasemusic
-git clone https://github.com/vernesong/OpenClash.git package/openwrt
+git clone https://github.com/vernesong/OpenClash.git package/openclash
